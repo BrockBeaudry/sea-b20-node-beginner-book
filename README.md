@@ -1,4 +1,4 @@
-sea-b20-node-beginner-book
+Node Beginner Book
 ==========================
-
-https://s3.amazonaws.com/prod_object_assets/assets/12052745095907/nodebeginner.pdf?AWSAccessKeyId=AKIAI7NUHQYARXR2GGCQ&amp;Expires=1407290050&amp;Signature=yFgNwpom6kqx47RibdVNVV9AlCQ%3D#_=_
+ 
+ An implementation of the Node.js app in [The Node Beginner Book.](http://bit.ly/1sa4l3u)
